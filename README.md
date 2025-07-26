@@ -12,7 +12,7 @@ This project focuses on predicting the presence of heart disease using machine l
 - Custom Scikit-Learn transformers
 
 ## Notes:
-While the initial structure and goals were defined during the course, this version:
+While the initial structure of the project was defined during the course, this version:
 - Cleans and structures the pipeline more robustly
 - Fixes model integration issues
 - Utilizes GridSearchCV to find the best parameters

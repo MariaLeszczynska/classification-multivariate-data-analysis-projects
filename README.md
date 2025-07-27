@@ -13,8 +13,8 @@ This project focuses on predicting the presence of heart disease using machine l
 
 ## Notes:
 While the initial structure of the project was defined during the course, this version:
-- Cleans and structures the pipeline more robustly
-- Fixes model integration issues
+- Cleans and structures the pipeline a bit better
+- Fixes model integration issues (before GridSearch was not possible due to some issues with the Pipeline)
 - Utilizes GridSearchCV to find the best parameters
 - Incorporates feedback and best practices for future ML projects
 
